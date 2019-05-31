@@ -1,4 +1,4 @@
 ## Welcome to H503's Blog
-[BusyBox](https://h5mcbox.github.io/blog/linux-busybox)  
+[linux指令:BusyBox](https://h5mcbox.github.io/blog/linux-busybox)  
 
-[rm](https://h5mcbox.github.io/blog/linux-rm)
+[linux指令:rm](https://h5mcbox.github.io/blog/linux-rm)
