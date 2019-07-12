@@ -5,6 +5,6 @@
 <meta http-equiv="Cache-control" content="no-cache">
 <meta http-equiv="Cache" content="no-cache">
 ## Welcome to H503's Blog
-[linux指令:BusyBox](/blog/linux-busybox)  
+[linux指令:BusyBox](/blog/linux-busybox)asa
 
 [linux指令:rm](/blog/linux-rm)
