@@ -1,3 +1,6 @@
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+<link rel="icon" href="/favicon.ico" type="image/x-icon">
+<link rel="bookmark" href="/favicon.ico" type="image/x-icon">
 ## busybox
 Busybox是一个开源项目，遵循GPL v2协议。Busybox将众多的UNIX命令整合进一个很小的可执行程序中，可以用来替代GNU fileutils、shellutils等工具集。它包括：
 ```commands

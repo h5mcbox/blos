@@ -1,3 +1,6 @@
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+<link rel="icon" href="/favicon.ico" type="image/x-icon">
+<link rel="bookmark" href="/favicon.ico" type="image/x-icon">
 ## Welcome to H503's Blog
 
 [linux指令:BusyBox](/blog/linux-busybox)

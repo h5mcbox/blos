@@ -1,3 +1,6 @@
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+<link rel="icon" href="/favicon.ico" type="image/x-icon">
+<link rel="bookmark" href="/favicon.ico" type="image/x-icon">
 ## rm
 可以用rm命令删除不需要的目录及文件。该命令的功能是删除一个目录中的一个或多个文件或目录，也可以将某个目录及其下的所有文件及子目录均删除。对于链接文件，只是断开了链接，源文件保持不变。
 示例：
